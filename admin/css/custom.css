@@ -1,0 +1,77 @@
+.table-photo {
+  width: 150px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.editbtn {
+  padding: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  background-color: #a0a0a0;
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.editbtn:hover {
+  border-color: #a0a0a0;
+  color: #a0a0a0;
+  text-decoration: none;
+  background-color: white;
+  border: 1px solid #a0a0a0;
+}
+
+.approvebtn {
+  padding: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  background-color: #497e52;
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.approvebtn:hover {
+  border-color: #497e52;
+  color: #497e52;
+  background-color: white;
+  text-decoration: none;
+  border: 1px solid #497e52;
+}
+
+.Napprovebtn {
+  padding: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  background-color: #972c24;
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.Napprovebtn:hover {
+  border-color: #972c24;
+  color: #972c24;
+  background-color: white;
+  text-decoration: none;
+  border: 1px solid #972c24;
+}
+
+.delbtn {
+  padding: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  background-color: #840023;
+  color: white;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.delbtn:hover {
+  border-color: #840023;
+  color: #840023;
+  background-color: white;
+  text-decoration: none;
+  border: 1px solid #840023;
+}
